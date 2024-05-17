@@ -1,2 +1,1 @@
-# cold-start-by-philograms
-Cold start using Philograms
+# Cold start using Philograms
