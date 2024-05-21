@@ -1,3 +1,3 @@
-# Cold start using Philograms
+# Cold start using Phylograms
 
 Active Learning
